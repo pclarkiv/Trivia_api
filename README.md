@@ -1,4 +1,4 @@
-#Full Stack Trivia
+# Full Stack Trivia
 
 1) Display questions - both all questions and by category. Questions should show the question, category and difficulty rating by default and can show/hide the answer. 
 2) Delete questions.
